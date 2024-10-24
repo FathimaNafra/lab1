@@ -1,8 +1,7 @@
-import java.util.Locale;
 import java.util.StringTokenizer;
 
 
-public class Q5 {
+public class Lab2Q5 {
     public static void main(String[] args) {
         System.out.print("enter a sentence: ");
         String input = System.console().readLine();

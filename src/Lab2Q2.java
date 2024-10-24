@@ -14,7 +14,7 @@ class Digit{
     }
 }
 
-public class Q2 {
+public class Lab2Q2 {
     public static void main(String[] args) {
         Scanner scanner =new Scanner(System.in);
         while(true){
